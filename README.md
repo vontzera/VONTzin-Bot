@@ -1,2 +1,2 @@
-# VONTzin-Bot
+# VONT-Bot
 1
